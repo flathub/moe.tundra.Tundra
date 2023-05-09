@@ -1,7 +1,7 @@
 {
   "app-id": "moe.tundra.Tundra",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "42",
+  "runtime-version": "44",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.rust-stable"
@@ -40,8 +40,8 @@
         {
           "type": "git",
           "url": "https://github.com/m4tx/tundra.git",
-          "tag": "v0.3.0",
-          "commit": "c90386bf5e88788800075dc60bfa29547f1544e2"
+          "tag": "v0.4.0",
+          "commit": "6e7bb746aadf2f67ffb497127c9f74e263e1e032"
         },
         "cargo-sources.json"
       ]
