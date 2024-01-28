@@ -40,8 +40,8 @@
         {
           "type": "git",
           "url": "https://github.com/m4tx/tundra.git",
-          "tag": "v0.5.1",
-          "commit": "589b1352e44dd4845ea7427271158387acfd9043"
+          "tag": "v0.5.2",
+          "commit": "2855efdb7cc96c35c0a820883f2c0e774c14428b"
         },
         "cargo-sources.json"
       ]
